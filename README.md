@@ -7,7 +7,7 @@
 <h3>MODA</h3>
 <p></p>
 
-<h3>MEDIANAA</h3>
+<h3>MEDIANA</h3>
 <p></p>
 
 <hr>
