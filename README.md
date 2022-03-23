@@ -1,8 +1,9 @@
 <h1 align="center">MATEMÁTICA</h1>
-<p align="center">Cálculos, Fórmulas e Termos.</p>
+<p align="center"><i>Cálculos, Fórmulas e Termos</i></p>
 
-<h3>MÉDIA</h3>
-<p></p>
+<h3>MÉDIA <i>(Me)</i></h3>
+<p>Medida de tendência central utilizada em estatística.<br>
+É calculada somando-se todos os valores de um conjunto de dados e dividindo-se pelo número de elementos deste conjunto.</p>
 
 <h3>MODA</h3>
 <p></p>
