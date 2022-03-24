@@ -2,11 +2,13 @@
 <p align="center"><i>Cálculos, Fórmulas e Termos</i></p>
 
 <h3>MODA <i>(Mo)</i></h3>
-<p>Valor mais frequente de um conjunto de dados. <i>(Número que mais aparece)</i>
+<p>Valor mais frequente de um conjunto de dados. <i>(Número que mais aparece.)</i>
 </p>
 
-<h3>MEDIANA</h3>
-<p></p>
+<h3>MEDIANA <i>(Md)</i></h3>
+<p>Valor central de um conjunto de dados.<br>
+<i>(Para encontrar o valor da mediana é necessário colocar os valores em ordem crescente ou decrescente.)</i>
+</p>
 
 <h3>MÉDIA <i>(Me)</i></h3>
 <p>Medida de tendência central utilizada em estatística.<br>
